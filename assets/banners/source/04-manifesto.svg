@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="332" viewBox="0 0 1600 332" role="img"><title>We do not accumulate tokens. We accumulate compute.</title>
+  <rect width="1600" height="332" fill="#D2FF00"/>
+  <text x="64" y="53" fill="#111710" font-family="Consolas, monospace" font-size="15" letter-spacing="2">THE COMPTYAI PRINCIPLE</text>
+  <text x="60" y="126" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="400" letter-spacing="-1">We don’t accumulate tokens.</text>
+  <text x="60" y="204" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">We accumulate compute.</text>
+  <path d="M64 256H1536" transform="translate(0 0)" stroke="#8CAA00" fill="none"/>
+  <text x="64" y="298" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >ComptyAI</text>
+  <text x="1040" y="296" fill="#111710" font-family="Consolas, monospace" font-size="14" letter-spacing="2">HOLD TOKENS. GET COMPUTE.</text>
+  <g fill="none" stroke="#111710" stroke-width="3"><rect x="1310" y="77" width="150" height="132"/><rect x="1331" y="98" width="108" height="90"/>
+  <path d="M1324 59v18m0 132v18 M1292 87h18m150 0h18"/><path d="M1354 59v18m0 132v18 M1292 115h18m150 0h18"/><path d="M1384 59v18m0 132v18 M1292 143h18m150 0h18"/><path d="M1414 59v18m0 132v18 M1292 171h18m150 0h18"/><path d="M1444 59v18m0 132v18 M1292 199h18m150 0h18"/>
+  <path d="m1370 116-21 28 21 28m30-56 21 28-21 28m-10-57-12 58"/></g>
+</svg>
