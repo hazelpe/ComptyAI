@@ -1,0 +1,23 @@
+name: Feature proposal
+description: Propose a focused protocol, developer or documentation improvement.
+title: "[Proposal] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Who needs this and what is difficult today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Describe the result, assumptions, units and relevant trust boundaries.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Acceptance criteria
+      description: How would a contributor demonstrate the feature works?
