@@ -1,0 +1,13 @@
+{
+  "epochId": "demo-001",
+  "status": "illustrative-only",
+  "protocolFeesCents": 100000,
+  "treasuryShareBps": 6000,
+  "reserveBps": 1000,
+  "gpuHourPriceCents": 200,
+  "holders": [
+    { "account": "holder-alice", "weight": 50 },
+    { "account": "holder-bob", "weight": 30 },
+    { "account": "holder-carol", "weight": 20 }
+  ]
+}
