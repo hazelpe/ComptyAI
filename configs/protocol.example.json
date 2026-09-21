@@ -1,0 +1,13 @@
+{
+  "status": "example-not-governance-approved",
+  "defaultNetwork": "robinhood-testnet",
+  "epochDurationSeconds": 604800,
+  "treasuryShareBps": 6000,
+  "reserveBps": 1000,
+  "allocationMethod": "proportional-largest-remainder",
+  "demoCreditUnit": "one-minute-example-gpu-tier",
+  "creditsTransferable": false,
+  "tokenAddress": null,
+  "treasuryAddress": null,
+  "provider": "local-mock"
+}
