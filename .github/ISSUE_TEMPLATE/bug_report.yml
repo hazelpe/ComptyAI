@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a reproducible problem in the reference model or documentation.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the observed result and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include commands, fictional inputs, Node.js version and operating system. Do not include secrets.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Relevant logs or documentation links, with private information removed.
