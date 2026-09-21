@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="418" viewBox="0 0 1600 418" role="img"><title>Token activity to protocol fees to treasury to GPU rentals to holder access</title>
+  <rect width="1600" height="418" fill="#111710"/>
+  <text x="64" y="48" fill="#D2FF00" font-family="Consolas, monospace" font-size="15" letter-spacing="2">THE COMPTYAI COMPUTE LOOP</text>
+  <text x="62" y="108" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" >One loop. Real utility.</text>
+  <rect x="64" y="150" width="266" height="196" rx="8" fill="#1D271A" stroke="#3C4C33"/>
+    <text x="86" y="184" fill="#D2FF00" font-family="Consolas, monospace" font-size="17" letter-spacing="2">01</text>
+    <text x="86" y="230" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >TOKEN</text>
+    <text x="86" y="264" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >ACTIVITY</text>
+    <text x="86" y="316" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >The starting signal</text>
+    <path d="M339 246h17m-6-6 6 6-6 6" fill="none" stroke="#D2FF00" stroke-width="2"/><rect x="365" y="150" width="266" height="196" rx="8" fill="#1D271A" stroke="#3C4C33"/>
+    <text x="387" y="184" fill="#D2FF00" font-family="Consolas, monospace" font-size="17" letter-spacing="2">02</text>
+    <text x="387" y="230" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >PROTOCOL</text>
+    <text x="387" y="264" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >FEES</text>
+    <text x="387" y="316" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Revenue is collected</text>
+    <path d="M640 246h17m-6-6 6 6-6 6" fill="none" stroke="#D2FF00" stroke-width="2"/><rect x="666" y="150" width="266" height="196" rx="8" fill="#1D271A" stroke="#3C4C33"/>
+    <text x="688" y="184" fill="#D2FF00" font-family="Consolas, monospace" font-size="17" letter-spacing="2">03</text>
+    <text x="688" y="230" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >COMPUTE</text>
+    <text x="688" y="264" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >TREASURY</text>
+    <text x="688" y="316" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >A budget for capacity</text>
+    <path d="M941 246h17m-6-6 6 6-6 6" fill="none" stroke="#D2FF00" stroke-width="2"/><rect x="967" y="150" width="266" height="196" rx="8" fill="#1D271A" stroke="#3C4C33"/>
+    <text x="989" y="184" fill="#D2FF00" font-family="Consolas, monospace" font-size="17" letter-spacing="2">04</text>
+    <text x="989" y="230" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >GPU</text>
+    <text x="989" y="264" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >RENTALS</text>
+    <text x="989" y="316" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Capacity is funded</text>
+    <path d="M1242 246h17m-6-6 6 6-6 6" fill="none" stroke="#D2FF00" stroke-width="2"/><rect x="1268" y="150" width="266" height="196" rx="8" fill="#D2FF00" stroke="#D2FF00"/>
+    <text x="1290" y="184" fill="#111710" font-family="Consolas, monospace" font-size="17" letter-spacing="2">05</text>
+    <text x="1290" y="230" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >HOLDER</text>
+    <text x="1290" y="264" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" >ACCESS</text>
+    <text x="1290" y="316" fill="#304014" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Credits become utility</text>
+    
+  <text x="64" y="389" fill="#A5B29F" font-family="Consolas, monospace" font-size="14" letter-spacing="2">VALUE MOVES TOWARD USABLE COMPUTE.</text>
+</svg>
