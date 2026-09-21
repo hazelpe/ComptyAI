@@ -1,0 +1,15 @@
+{
+  "name": "comptyai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turn token activity into compute. A Robinhood Chain protocol design and local reference model.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "demo": "node apps/console/src/index.mjs",
+    "test": "node --test tests/unit/*.test.mjs tests/integration/*.test.mjs",
+    "check": "node scripts/check-repository.mjs",
+    "verify": "npm run check && npm test && npm run demo"
+  },
+  "license": "MIT"
+}
