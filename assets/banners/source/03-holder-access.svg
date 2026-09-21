@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="430" viewBox="0 0 1600 430" role="img"><title>Hold tokens. Get compute.</title>
+  <rect width="1600" height="430" fill="#F0F3E8"/>
+  <rect x="0" y="0" width="13" height="430" fill="#D2FF00"/>
+  <text x="64" y="63" fill="#4A5940" font-family="Consolas, monospace" font-size="15" letter-spacing="2">COMPUTE AS HOLDER UTILITY</text>
+  <text x="60" y="164" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="700" letter-spacing="-2">Hold tokens.</text>
+  <text x="60" y="248" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="700" letter-spacing="-2">Get compute.</text>
+  <text x="64" y="317" fill="#4A5940" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" >A funded allowance for your next AI workload.</text>
+  <text x="64" y="390" fill="#4A5940" font-family="Consolas, monospace" font-size="13" letter-spacing="2">ELIGIBLE HOLDERS / DEFINED CAPACITY</text>
+  <rect x="735" y="91" width="243" height="260" rx="8" fill="#E1E7D5"/>
+    <circle cx="777" cy="139" r="21" fill="#D2FF00"/>
+    <text x="763" y="145" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" >01</text>
+    <text x="758" y="214" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Snapshot</text>
+    <text x="758" y="263" fill="#4A5940" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >Eligible balances</text>
+    <text x="758" y="292" fill="#4A5940" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >set your weight.</text><rect x="1004" y="91" width="243" height="260" rx="8" fill="#E1E7D5"/>
+    <circle cx="1046" cy="139" r="21" fill="#D2FF00"/>
+    <text x="1032" y="145" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" >02</text>
+    <text x="1027" y="214" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Get credits</text>
+    <text x="1027" y="263" fill="#4A5940" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >A funded pool</text>
+    <text x="1027" y="292" fill="#4A5940" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >sets your allowance.</text><rect x="1273" y="91" width="243" height="260" rx="8" fill="#111710"/>
+    <circle cx="1315" cy="139" r="21" fill="#D2FF00"/>
+    <text x="1301" y="145" fill="#111710" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" >03</text>
+    <text x="1296" y="214" fill="#F0F3E8" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Run jobs</text>
+    <text x="1296" y="263" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >Reserve capacity.</text>
+    <text x="1296" y="292" fill="#A5B29F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" >Settle actual use.</text>
+</svg>
