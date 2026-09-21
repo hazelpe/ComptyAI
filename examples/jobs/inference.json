@@ -1,0 +1,8 @@
+{
+  "requestId": "demo-inference-001",
+  "account": "holder-alice",
+  "maxCredits": 120,
+  "simulatedUsageCredits": 90,
+  "workload": "inference",
+  "provider": "local-mock"
+}
