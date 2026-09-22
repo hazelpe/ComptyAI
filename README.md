@@ -5,6 +5,7 @@
 <p align="center">
   <strong>Hold tokens. Get compute.</strong><br />
   A compute-access protocol designed for Robinhood Chain.
+  <strong>$COMPTY: 0x7095beb8192b352a4c33f9e3c532e3b2f4d116e6 </strong><br />
 </p>
 
 <p align="center">
