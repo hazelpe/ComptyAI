@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="docs/README.md">Documentation</a> ·
-  <a href="docs/zh-CN/README.md">中文说明</a> ·
   <a href="docs/protocol/overview.md">Protocol</a> ·
   <a href="docs/developers/quickstart.md">Quickstart</a> ·
   <a href="ROADMAP.md">Roadmap</a>
